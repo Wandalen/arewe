@@ -4,7 +4,7 @@
   "description": "",
   "author": "Kostiantyn Wandalen <wanalen@willbe.so>",
   "license": "MIT",
-  "main": "staging/dwtools/amid/___",
+  "main": "staging/dwtools/amid",
   "files": [
     "staging/dwtools/amid",
     "production"
