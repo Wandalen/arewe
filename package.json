@@ -1,0 +1,34 @@
+
+{
+  "name": "arewe",
+  "version": "0.3.0",
+  "description": "",
+  "author": "Kostiantyn Wandalen <wanalen@willbe.so>",
+  "license": "MIT",
+  "main": "staging/dwtools/amid/___",
+  "files": [
+    "staging/dwtools/amid",
+    "production"
+  ],
+  "scripts": {
+    "test": "wtest staging",
+    "make_doc": "./doc.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wandalen/arewe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wandalen/arewe/issues"
+  },
+  "dependencies": {
+    "wTools": ""
+  },
+  "devDependencies": {
+    "wTesting": "",
+    "arewe": "."
+  },
+  "keywords": [
+    "wTools"
+  ]
+}
